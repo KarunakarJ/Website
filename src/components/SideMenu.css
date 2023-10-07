@@ -1,0 +1,41 @@
+.logoimg {
+  margin-top: 3em;
+  margin-left: 3em;
+  text-align: center;
+}
+.icon {
+  width: 150px;
+}
+.navigate {
+  margin-top: 2em;
+  text-align: left;
+  margin-left: 2em;
+}
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 0.5em;
+}
+li {
+  margin-top: 0.5em;
+}
+.item {
+  text-decoration: none;
+  color: gray;
+}
+.item:hover {
+  text-decoration: underline;
+  text-decoration-color: black;
+  text-decoration-thickness: 10%;
+}
+.accordion {
+  font-size: 18px;
+  font-weight: bold;
+}
+.sublink {
+  margin-left: 1em;
+}
+.text {
+  margin: 2em;
+}
